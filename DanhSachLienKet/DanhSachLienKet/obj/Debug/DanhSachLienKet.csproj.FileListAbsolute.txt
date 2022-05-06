@@ -1,0 +1,8 @@
+D:\giaiThuatVaCauTruc\BTVN-lop-Thuat-toan\DanhSachLienKet\DanhSachLienKet\bin\Debug\DanhSachLienKet.exe.config
+D:\giaiThuatVaCauTruc\BTVN-lop-Thuat-toan\DanhSachLienKet\DanhSachLienKet\bin\Debug\DanhSachLienKet.exe
+D:\giaiThuatVaCauTruc\BTVN-lop-Thuat-toan\DanhSachLienKet\DanhSachLienKet\bin\Debug\DanhSachLienKet.pdb
+D:\giaiThuatVaCauTruc\BTVN-lop-Thuat-toan\DanhSachLienKet\DanhSachLienKet\obj\Debug\DanhSachLienKet.csproj.AssemblyReference.cache
+D:\giaiThuatVaCauTruc\BTVN-lop-Thuat-toan\DanhSachLienKet\DanhSachLienKet\obj\Debug\DanhSachLienKet.csproj.SuggestedBindingRedirects.cache
+D:\giaiThuatVaCauTruc\BTVN-lop-Thuat-toan\DanhSachLienKet\DanhSachLienKet\obj\Debug\DanhSachLienKet.csproj.CoreCompileInputs.cache
+D:\giaiThuatVaCauTruc\BTVN-lop-Thuat-toan\DanhSachLienKet\DanhSachLienKet\obj\Debug\DanhSachLienKet.exe
+D:\giaiThuatVaCauTruc\BTVN-lop-Thuat-toan\DanhSachLienKet\DanhSachLienKet\obj\Debug\DanhSachLienKet.pdb
